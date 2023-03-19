@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import spacy
-import streamlit_analytics
 import mixpanel
 
 mp = mixpanel.Mixpanel(token='34c02c8da1ba2e6c9fbf94ea1ba80dbb')
